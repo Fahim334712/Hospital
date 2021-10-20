@@ -1,0 +1,47 @@
+.flexi{
+    background-color:ghostwhite;
+    
+}
+.flexid{
+    display: flex;
+}
+.img-Size{
+    height: 250px;
+}
+.flexis{
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    
+}
+.colorr{
+    color: black;
+    font-weight: bold;
+}
+.colorr:hover{
+    background-color:white;
+    color:black;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.secondPartHeader{
+    background-color:#1752BA;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    align-items: center;
+    
+    margin-bottom: 5px;
+    text-align: center;
+    color: white;
+    padding: 8px 0px 8px 0px;
+}
+.containers a{
+    margin: 3px;
+    
+}
+.ngb{
+    margin-bottom: 5px;
+}
+.lk:hover{
+    cursor: pointer;
+}

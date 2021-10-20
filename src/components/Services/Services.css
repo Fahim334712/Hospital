@@ -1,0 +1,11 @@
+.kj{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.mnl{
+    height: 500px;
+    margin-left: 100px;
+}
+.rt{
+    margin-left: 40px;
+}

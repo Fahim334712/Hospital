@@ -1,0 +1,92 @@
+[
+    {
+        "_id": "615afefbaec8c3368cee29fc",
+        "index": 0,
+        "fee": "$2000",
+        "name": "Dr.Liam",
+        "picture": "images/pic-1.jpg",
+        "course": "Church Baird",
+        "category": "Primary"
+    },
+    {
+        "_id": "615afefb93c0fd03",
+        "index": 1,
+        "fee": "$3000",
+        "name": "Dr.Oliver",
+        "picture": "images/pic-2.jpg",
+        "course": "Weeks Ryan",
+        "category": "JSC"
+    },
+    {
+        "_id": "615afefb87",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.Emma",
+        "picture": "images/pic-3.jpg",
+        "course": "Meyer Bryant",
+        "category": "SSC"
+    },
+    {
+        "_id": "615afefb",
+        "index": 3,
+        "fee": "$7000",
+        "name": "Dr.Ava",
+        "picture": "images/pic-4.jpg",
+        "course": "Academic",
+        "category": "HSC"
+    },
+    {
+        "_id": "615afef",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.Charlotte",
+        "picture": "images/pic-5.jpg",
+        "course": "MS-Word",
+        "category": "Skill develope"
+    },
+    {
+        "_id": "615afe",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.William",
+        "picture": "images/pic-6.jpg",
+        "course": "MS-Excell",
+        "category": "Skill develope"
+    },
+    {
+        "_id": "615af",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.Sophia",
+        "picture": "images/pic-7.jpg",
+        "course": "Grapics",
+        "category": "Skill develope"
+    },
+    {
+        "_id": "615a",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.James",
+        "picture": "images/pic-8.jpg",
+        "course": "Web develope",
+        "category": "Skill develope"
+    },
+    {
+        "_id": "615",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.Benjamin",
+        "picture": "images/pic-9.jpg",
+        "course": "Programming",
+        "category": "Skill develope"
+    },
+    {
+        "_id": "61",
+        "index": 2,
+        "fee": "$5000",
+        "name": "Dr.Lucas",
+        "picture": "images/pic-10.jpg",
+        "course": "Photograpy",
+        "category": "Skill develope"
+    }
+]

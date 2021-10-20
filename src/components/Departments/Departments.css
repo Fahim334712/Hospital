@@ -1,0 +1,48 @@
+.style{
+    /* background-image: url('https://fox4kc.com/wp-content/uploads/sites/16/2019/07/gettyimages-638377134-e1586036688989.jpg?w=2560&h=1440&crop=1');
+    background-attachment: fixed; */
+    
+        background: url(https://fox4kc.com/wp-content/uploads/sites/16/2019/07/gettyimages-638377134-e1586036688989.jpg?w=2560&h=1440&crop=1);
+        height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 400px;
+}
+.Thetext{
+    background-color: #2860c0;
+    border-radius: 350px;
+}
+.Flexes{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-gap: 5px;
+    margin-bottom: 10px;
+}
+.Img{
+    height: 600px;
+}
+.again{
+    display: grid;
+    grid-template-rows: repeat(4,1fr);
+    row-gap: 20px;
+    
+
+}
+.bodys{
+    background-color: #FFFFFF;
+}
+.peta{
+    margin-right: 2px;
+    box-shadow: 2px 2px 2px 2px #888888;
+    border-radius: 20px;
+}
+.peta:hover{
+    color: white;
+    background-color: #2860c0;
+}
+.Imgi{
+    height: 500px;
+}

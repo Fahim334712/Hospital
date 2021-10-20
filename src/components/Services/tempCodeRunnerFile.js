@@ -1,0 +1,1 @@
+<img className="mnl" src="./images/j.jpg" alt="" />

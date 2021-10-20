@@ -1,0 +1,20 @@
+.imgSizes{
+    height: 250px;
+    width: 200px;
+    border-radius: 20px;
+    border-right: 2px solid aqua;
+}
+.design{
+    
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 2px 2px 2px 2px grey;
+}
+.TheLeft{
+    margin-left: 20px;
+    border-left: 2px solid gainsboro;
+    
+}
+.text{
+    margin-left: 10px;
+}

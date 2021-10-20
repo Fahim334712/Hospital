@@ -1,0 +1,10 @@
+.Gridi{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 5px;
+}
+.gh{
+    border-bottom: 2px solid gray;
+    margin-left: 50px;
+    margin-right: 50px;
+}
