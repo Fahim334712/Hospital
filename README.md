@@ -2,9 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About this app
-# Its  a demo website create for a hospital.This site shows how many services a hospital has,how many department it has,the number of doctors and a route through a firebase authentication privately.
-* its demu.
+# About this app
+## Its  a demo website create for a hospital.This site shows how many services a hospital has,how many department it has,the number of doctors and a route through a firebase authentication privately.
+* A hospital Service can be seen with this site.
+* Get acquainted with the departments and doctors of a hospital.
+* Different means of communication have been provided if necessary.
+* Firebase authentication has been used for authentication here.
+## This website will be updated in the coming days.
 
 ## 
 
