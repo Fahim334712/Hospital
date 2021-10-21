@@ -4,9 +4,11 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { LinkContainer } from 'react-router-bootstrap';
 import './Header.css';
 
+import UseAuth from '../Hooks/UseAuth';
+
 
 const Header = () => {
-
+    const { user, logOut } = UseAuth();
     return (
         <div className="flexi" style={{ backgroundImage: `url("https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-medical-medical-doctor-science-gradient-background-image_63443.jpg")` }}>
             <div className="flexid container">
@@ -31,15 +33,18 @@ const Header = () => {
                     <LinkContainer to="/services">
                         <Nav.Link className="colorr">Services</Nav.Link>
                     </LinkContainer>
-
-                    <LinkContainer to="/login">
-                        <Nav.Link className="colorr"><i className="fa fa-sign-in" aria-hidden="true"></i></Nav.Link>
-                    </LinkContainer>
+                    {user.email && <span style={{ color: 'black' }}> Hello {user.displayName}</span>}
+                    {
+                        user.email ?
+                            <p className="colorr">Logout<i onClick={logOut} className="fas fa-sign-out-alt"></i></p>
+                            :
+                            <LinkContainer to="/login">
+                                <Nav.Link className="colorr"><i className="fa fa-sign-in" aria-hidden="true"></i></Nav.Link>
+                            </LinkContainer>}
                     <LinkContainer to="/register">
                         <Nav.Link className="colorr"><i className="fas fa-user-plus"></i></Nav.Link>
                     </LinkContainer>
-                    <Nav.Link className="colorr"> <i className="fas fa-sign-out-alt"></i>
-                    </Nav.Link>
+
 
 
 

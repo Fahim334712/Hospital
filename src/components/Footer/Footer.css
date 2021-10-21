@@ -1,0 +1,17 @@
+.we{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.as{
+    background-color: #8CDCFF;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.zx{
+    text-align: center;
+}
+.loo{
+    border-bottom: 2px solid white;
+    margin-left: 20px;
+    margin-right: 10px;
+}

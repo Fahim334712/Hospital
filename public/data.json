@@ -6,6 +6,7 @@
         "name": "Dr.Liam",
         "picture": "images/pic-1.jpg",
         "course": "Church Baird",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Primary"
     },
     {
@@ -15,6 +16,7 @@
         "name": "Dr.Oliver",
         "picture": "images/pic-2.jpg",
         "course": "Weeks Ryan",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "JSC"
     },
     {
@@ -24,6 +26,7 @@
         "name": "Dr.Emma",
         "picture": "images/pic-3.jpg",
         "course": "Meyer Bryant",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "SSC"
     },
     {
@@ -33,6 +36,7 @@
         "name": "Dr.Ava",
         "picture": "images/pic-4.jpg",
         "course": "Academic",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "HSC"
     },
     {
@@ -42,6 +46,7 @@
         "name": "Dr.Charlotte",
         "picture": "images/pic-5.jpg",
         "course": "MS-Word",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     },
     {
@@ -51,6 +56,7 @@
         "name": "Dr.William",
         "picture": "images/pic-6.jpg",
         "course": "MS-Excell",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     },
     {
@@ -60,6 +66,7 @@
         "name": "Dr.Sophia",
         "picture": "images/pic-7.jpg",
         "course": "Grapics",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     },
     {
@@ -69,6 +76,7 @@
         "name": "Dr.James",
         "picture": "images/pic-8.jpg",
         "course": "Web develope",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     },
     {
@@ -78,6 +86,7 @@
         "name": "Dr.Benjamin",
         "picture": "images/pic-9.jpg",
         "course": "Programming",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     },
     {
@@ -87,6 +96,7 @@
         "name": "Dr.Lucas",
         "picture": "images/pic-10.jpg",
         "course": "Photograpy",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Praesentium nam recusandae ipsam labore fugiat iste alias libero accusantium id neque odit distinctio commodi, temporibus voluptate in, dicta dolorem inventore! Error.",
         "category": "Skill develope"
     }
 ]

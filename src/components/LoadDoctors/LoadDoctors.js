@@ -5,7 +5,7 @@ import './LoadDoctors.css';
 
 
 const LoadDoctors = (props) => {
-    const { name, picture } = props.data;
+    const { name, picture, description } = props.data;
 
 
     return (
@@ -16,7 +16,7 @@ const LoadDoctors = (props) => {
                 </div>
                 <div className="TheLeft">
                     <h6 className="text">Name : {name};</h6>
-
+                    <p className="text-center">{description}</p>
                 </div>
             </div>
         </div>
