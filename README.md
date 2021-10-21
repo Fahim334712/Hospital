@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## About this app
+# Its  a demo website create for a hospital.This site shows how many services a hospital has,how many department it has,the number of doctors and a route through a firebase authentication privately.
+* its demu.
 
-In the project directory, you can run:
+## 
 
 ### `npm start`
 
