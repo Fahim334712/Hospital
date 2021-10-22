@@ -46,3 +46,12 @@
     
     
 }
+@media only screen and (max-width:688px){
+    .forms{
+        border: 2px solid darkcyan;
+        box-shadow: 2px 2px 2px 2px grey;
+        background-color: #EDF2F6;
+        align-items: center;
+        align-content: center;
+    }
+}

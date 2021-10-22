@@ -31,7 +31,7 @@ const Register = memo(() => {
 
     return (
         <div className="text-center">
-            <h2>Register New Account</h2>
+            <h2>REGISTER NEW ACCOUNT</h2>
             <form onSubmit={handleRegister} className="forms mt-2 pb-3 mb-3">
                 <input onBlur={handleEmailChange} className="mt-2 gfd bv" type="email" name="" id="" placeholder="Your Email" required /><br /><br />
                 <input onBlur={handlePasswordChange} className="mt-2 gfd bv" type="password" name="" id="" placeholder="Your Password" required /><br /><br />

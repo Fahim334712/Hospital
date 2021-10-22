@@ -10,7 +10,7 @@ import UseAuth from '../Hooks/UseAuth';
 const Header = () => {
     const { user, logOut } = UseAuth();
     return (
-        <div className="flexi" style={{ backgroundImage: `url("https://png.pngtree.com/thumb_back/fw800/background/20190222/ourmid/pngtree-medical-medical-doctor-science-gradient-background-image_63443.jpg")` }}>
+        <div className="flexi" >
             <div className="flexid container">
                 <div>
                     <img className="img-Size" src="./images/img-1.png" alt="" />
