@@ -20,7 +20,7 @@ const Home = () => {
         <div className="df">
             <section className="tger"  >
                 <div className="ms bo">
-                    <h1 className="fw-bolt bn">Get Better Care For<br /> Your <span className="text-danger">Health</span></h1>
+                    <h1 className="fw-bolt bn"> Better Care For<br /> Your <span className="text-danger">Health</span></h1>
                     <p className="nh">Quisque leo augue, lobortis ac tellus nec, posuere ultricies nulla. Praesent massa odio, pellentesque in consectetur quis, volutpat sit amet erat.</p>
                     <button className="nah">Learn More.......</button>
                 </div>
